@@ -1,0 +1,38 @@
+total 1032
+drwxr-xr-x 1 Administrator 197121      0 May 24 08:26  ./
+drwxr-xr-x 1 Administrator 197121      0 May 24 08:26  ../
+drwxr-xr-x 1 Administrator 197121      0 May 24 08:13  .git/
+drwxr-xr-x 1 Administrator 197121      0 Aug 25  2022 'Activator Win'/
+-rwxr-xr-x 1 Administrator 197121   1052 Apr 26 05:09 'Adobe Photoshop 2021.lnk'*
+-rwxr-xr-x 1 Administrator 197121    466 May 16 23:17 'CD Drive - Shortcut.lnk'*
+drwxr-xr-x 1 Administrator 197121      0 May 16 23:21 'GIFT FILES'/
+drwxr-xr-x 1 Administrator 197121      0 May 23 16:08  HTML/
+-rw-r--r-- 1 Administrator 197121  33366 May 23 08:47 'JOE PROFILE.jpg'
+-rw-r--r-- 1 Administrator 197121  18765 Apr 18 23:02  LICENSE.txt
+-rwxr-xr-x 1 Administrator 197121   2348 Aug 20  2022 'Microsoft Edge.lnk'*
+-rwxr-xr-x 1 Administrator 197121    766 May 16 23:16 'Music - Shortcut.lnk'*
+-rwxr-xr-x 1 Administrator 197121   1433 May  8 11:10 'Opera Browser.lnk'*
+-rwxr-xr-x 1 Administrator 197121   2406 Apr 17 20:45 'Person 1 - Chrome.lnk'*
+drwxr-xr-x 1 Administrator 197121      0 May 16 23:16 'RAND G'/
+-rw-r--r-- 1 Administrator 197121     42 May 24 05:46  README.md
+-rw-r--r-- 1 Administrator 197121   3738 Apr 18 23:01  README.portable
+drwxr-xr-x 1 Administrator 197121      0 May 16 23:15 'Saved Pictures'/
+-rwxr-xr-x 1 Administrator 197121   1056 May 23 21:14  Telegram.lnk*
+-rwxr-xr-x 1 Administrator 197121   1424 May 22 16:39 'Visual Studio Code.lnk'*
+-rw-r--r-- 1 Administrator 197121 240721 Apr 14 16:46 'WEEEKLY MENU SCHEDUL.docx'
+-rw-r--r-- 1 Administrator 197121 162205 Apr 14 16:47 'WEEEKLY MENU SCHEDUL.pdf'
+drwxr-xr-x 1 Administrator 197121      0 May 22 16:27  bin/
+drwxr-xr-x 1 Administrator 197121      0 May 22 16:27  cmd/
+-rw-r--r-- 1 Administrator 197121    282 Aug 20  2022  desktop.ini
+drwxr-xr-x 1 Administrator 197121      0 May 22 16:26  dev/
+drwxr-xr-x 1 Administrator 197121      0 May 24 08:44  enyata-academy-2023/
+drwxr-xr-x 1 Administrator 197121      0 May 24 05:29  etc/
+-rwxr-xr-x 1 Administrator 197121 137264 Apr 18 22:40  git-bash.exe*
+-rwxr-xr-x 1 Administrator 197121 136752 Apr 18 22:40  git-cmd.exe*
+drwxr-xr-x 1 Administrator 197121      0 May 22 16:26  mingw64/
+dr-xr-xr-x 9 Administrator 197121      0 May 24 08:51  proc/
+drwxr-xr-x 1 Administrator 197121      0 Apr 26 05:13  products/
+drwxr-xr-x 1 Administrator 197121      0 May 24 08:36  tmp/
+drwxr-xr-x 1 Administrator 197121      0 May 22 16:27  usr/
+-rw-r--r-- 1 Administrator 197121    162 Apr 20 23:04 '~ MENU SCHEDUL.docx'
+-rwxr-xr-x 1 Administrator 197121    904 Aug 21  2022  µTorrent.lnk*
